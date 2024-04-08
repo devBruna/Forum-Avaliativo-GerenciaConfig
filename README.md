@@ -1,0 +1,1 @@
+Este projeto visa atender ao Forúm Avaliativo de Gerência de Configuração de Software 2024
