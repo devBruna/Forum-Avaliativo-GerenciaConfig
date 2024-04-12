@@ -138,9 +138,9 @@ body {
   }
   
   .property img {
-    width: 50%;
+    width: 90%;
     max-width: 300px;
-
+    height: auto;
     margin-bottom: 10px;
     border-radius: 5px;
   }
